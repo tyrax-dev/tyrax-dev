@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @tyrax-dev
+- 👋 Hi, I’m Tyrax
 - 👀 I’m interested in Robotics and Technology
 - 🌱 I’m currently learning Programming 
 - 💞️ I’m looking to collaborate on Robotics projects
