@@ -1,12 +1,8 @@
 - 👋 Hi, I’m @tyrax-dev
 - 👀 I’m interested in Robotics and Technology
 - 🌱 I’m currently learning Programming 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 💞️ I’m looking to collaborate on Robotics projects
+- 📫 How to reach me - whynot110055@gmail.com    
+- 😄 Pronouns: He/Him
+- ⚡ Fun fact: I dont know myself also 
 
-<!---
-tyrax-dev/tyrax-dev is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
